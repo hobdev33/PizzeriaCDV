@@ -2,6 +2,8 @@
 
 ## Pizze klasyczne
 
+<img src = 'img/carissa-gan-_0JpjeqtSyg-unsplash.jpg width = 300'>
+
 1. MARGHARITA(sos pomidorowy, ser, oregano) 20zł
 2. FUNGHI(sos pomidorowy, ser,pieczarki) 22zł
 3. SALAMI(sos pomidorowy, ser mozzarella, salami) 23zł
