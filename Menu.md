@@ -19,6 +19,8 @@
 
 ## Pizza Calzone - zwinięta w pieróg
 
+<img src = "img/54a85579d445bfb208965354618fbc71-recipe_main.png" width = 300>
+
 |Lp.| Pizza:                                                                          | Rozmiar:| 30cm | 50cm | 60 cm|
 |---|---------------------------------------------------------------------------------|---------|------|------|------|
 |1. | KEBAB (sos pomidorowy, ser, kebab, sos czosnkowy)                               |         | 26zł | 46zł | 56zł |
@@ -26,6 +28,8 @@
 |3. | BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)  |         | 26zł | 50zł | 60zł |
 
 ## Makarony
+
+<img src = "img/spaghetti-thermomix.jpg" width = 250>
 
 |Lp.| Makaron:                                                                        | Porcja :| 500g | 650g | 
 |---|---------------------------------------------------------------------------------|---------|------|------|
@@ -35,6 +39,7 @@
 
 ## Sosy
 
+<img src = "img/rodzaje-sosow-pizza.jpg" width = 250>
 
 1. Czosnkowy - 5 zł
 2. Pomidorowy - 5zł
@@ -44,6 +49,7 @@
 
 ## Napoje
 
+<img src = "img/abhishek-hajare-kkrXVKK-jhg-unsplash.jpg" width = 200>
 
 |Lp.| Napój:                                                                          | Pojemność :| 330ml | 500ml | 
 |---|---------------------------------------------------------------------------------|------------|-------|-------|
