@@ -35,11 +35,12 @@
 
 ## Sosy
 
-1.Czosnkowy - 5 zł
-2.Pomidorowy - 5 zł
-3.Barbeque - 5 zł
-4.Sezamowy - 5 zł
-5.Majonezowy - 5 zł 
+
+1. Czosnkowy - 5 zł
+2. Pomidorowy - 5zł
+3. Barbeque - 5 zł
+4. Sezamowy - 5 zł
+5. Majonezowy - 5 zł
 
 ## Napoje
 
