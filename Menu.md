@@ -18,7 +18,7 @@
 |10.| BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)  |         | 26zł | 50zł | 60zł |
 
 ## Pizze Wegetariańskie
-<img src = "img/bok-17.png" width = 300>
+<img src = "img/likemeat-CbNAuxSZTFo-unsplash.jpg" width = 300>
 
 |Lp.| Pizza:                                                                          | Rozmiar:| 30cm | 50cm | 60 cm|
 |---|---------------------------------------------------------------------------------|---------|------|------|------|
@@ -52,7 +52,7 @@
 
 ## Sałatki 
 
-<img src = "img/sałatka-cobb-6.jpg" width = 300>
+<img src = "img/anna-pelzer-IGfIGP5ONV0-unsplash.jpg" width = 300>
 
 1. Cesar (sałata, oliwa z oliwek, pomidor, cebula) - 15 zł
 2. Grecka ( sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
