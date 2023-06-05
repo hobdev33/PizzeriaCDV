@@ -1,2 +1,2 @@
 # PizzeriaCDV
-Ten plik należy go gałęzi main
+To jest strona naszej pizzerii.
