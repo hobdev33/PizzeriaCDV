@@ -1,2 +1,2 @@
 # PizzeriaCDV
-Ten plik należy go gałęzi wege
+Ten plik należy go gałęzi main
