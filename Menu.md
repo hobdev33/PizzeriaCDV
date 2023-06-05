@@ -17,6 +17,19 @@
 |9. | HAWAJSKA (sos pomidorowy, ser, szynka, ananas)                                  |         | 26zł | 49zł | 59zł |
 |10.| BARBEQUE (sos pomidorowy, ser, kurczak, boczek, cebula, sos barbeque, oregano)  |         | 26zł | 50zł | 60zł |
 
+## Pizze Wegetariańskie
+<img src = "img/likemeat-CbNAuxSZTFo-unsplash.jpg" width = 300>
+
+|Lp.| Pizza:                                                                          | Rozmiar:| 30cm | 50cm | 60 cm|
+|---|---------------------------------------------------------------------------------|---------|------|------|------|
+|1. | MARGHARITA (sos pomidorowy, ser, oregano)                                       |         | 20zł | 40zł | 50zł |
+|2. | FUNGHI (sos pomidorowy, ser,pieczarki)                                          |         | 22zł | 42zł | 52zł |
+|3. | HAWAJSKA VEGE (sos pomidorowy, ser , ananas)                                    |         | 23zł | 43zł | 53zł | 
+|4. | GRECKA (sos pomidorowy, ser, oliwki, feta, sałata lodowa)                       |         | 26zł | 48zł | 58zł |
+|5. | MILANO VEGE (sos pomidorowy, ser, papryka i oregano)                            |         | 26zł | 45zł | 55zł |
+
+
+
 ## Pizza Calzone - zwinięta w pieróg
 
 <img src = "img/54a85579d445bfb208965354618fbc71-recipe_main.png" width = 300>
@@ -36,6 +49,14 @@
 |1. | SPAGETTI NAPOLI (makaron z sosem pomidorowym i serem)                           |         | 30zł | 50zł |
 |2. | SPAGHETTI BOLONIA (makaron z sosem bolońskim)                                   |         | 20zł | 46zł | 
 |3. | SPAGHETTI CARBONARA (makaron z sosem carbonara)                                 |         | 28zł | 48zł |
+
+## Sałatki 
+
+<img src = "img/anna-pelzer-IGfIGP5ONV0-unsplash.jpg" width = 300>
+
+1. Cesar (sałata, oliwa z oliwek, pomidor, cebula) - 15 zł
+2. Grecka ( sałata, cebula, oliwa z oliwek, pomidor, oliwki, feta) - 20 zł
+3. Hiszpańska ( sałata, cebula, oliwa z oliwek, pomidor, oliwki, mozarella) - 25 zł 
 
 ## Sosy
 
